@@ -1,13 +1,36 @@
-
-# [EN] ChatKit 
-
-# [RU] ChatKit 
-
 <p align="left">
  <a href="http://commitizen.github.io/cz-cli/">
  <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly"></a>
 </p>
 
+# [EN] ChatKit 
+
+Description here...
+
+## Requirements
+
+## Installation
+
+Для установки ChatKit запустите в терминале команды:
+
+~~~console
+git clone https://github.com/sovaai/chatKit-dev.git
+meta git update
+meta npm install
+npm install
+~~~
+
+## Running
+
+~~~console
+npm run start
+~~~
+
+## License
+
+# [RU] ChatKit 
+
+Тут будет описание
 
 ## Требования
  
@@ -35,3 +58,5 @@ npm install
 ~~~console
 npm run start
 ~~~
+
+## Лицензия
