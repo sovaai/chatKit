@@ -1,7 +1,7 @@
 
-#  ChatKit 
+# [EN] ChatKit 
 
-# 🇷🇺 ChatKit 
+# [RU] ChatKit 
 
 <p align="left">
  <a href="http://commitizen.github.io/cz-cli/">
