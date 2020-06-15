@@ -1,4 +1,4 @@
-# ChatKit
+# ChatKit 
 
 <p align="left">
  <a href="http://commitizen.github.io/cz-cli/">
@@ -18,7 +18,7 @@
 
 Для установки ChatKit запустите в терминале команды:
 
-~~~zsh
+~~~sh
 git clone git@github.com:sovaai/chatKit-dev.git
 meta git update
 meta npm install
