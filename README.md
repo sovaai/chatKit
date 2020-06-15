@@ -3,6 +3,8 @@
   <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly">
 </a>
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/sovaai/chatKit-dev/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sovaai/chatKit-dev">
+<img alt="GitHub" src="https://img.shields.io/github/license/sovaai/chatKit-dev">
 </p>
 
 # [EN] ChatKit 
