@@ -8,6 +8,7 @@
  <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly"></a>
 </p>
 
+
 ## Требования
  
 Перед началом работы с ChatKit на компьютере должны быть установлены:
