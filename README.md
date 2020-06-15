@@ -4,7 +4,6 @@
 </a>
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/sovaai/chatKit-dev/total">
 </p>
-![GitHub All Releases](https://img.shields.io/github/downloads/sovaai/chatKit-dev/total)
 
 # [EN] ChatKit 
 
