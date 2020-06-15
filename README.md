@@ -1,7 +1,10 @@
 <p align="left">
-  <a href="http://commitizen.github.io/cz-cli/">
- <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly"></a>
+<a href="http://commitizen.github.io/cz-cli/">
+  <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly">
+</a>
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/sovaai/chatKit-dev/total">
 </p>
+![GitHub All Releases](https://img.shields.io/github/downloads/sovaai/chatKit-dev/total)
 
 # [EN] ChatKit 
 
