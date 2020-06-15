@@ -26,7 +26,7 @@
 git clone https://github.com/sovaai/chatKit-dev.git
 meta git update
 meta npm install
-npm install // for local dependency in development
+npm install
 ~~~
 
 ## Запуск
