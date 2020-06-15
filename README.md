@@ -18,8 +18,8 @@
 
 Для установки ChatKit запустите в терминале команды:
 
-~~~command
-git clone git@github.com:sovaai/chatKit-dev.git
+~~~
+git clone 
 meta git update
 meta npm install
 npm install // for local deps in development
