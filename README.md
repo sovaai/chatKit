@@ -1,4 +1,7 @@
-# ChatKit 
+
+#  ChatKit 
+
+# 🇷🇺 ChatKit 
 
 <p align="left">
  <a href="http://commitizen.github.io/cz-cli/">
@@ -13,16 +16,21 @@
 * **Node.js**. Инструкция по установке [тут](https://nodejs.org/en/download/).
 * **NPM**. Инструкция по установке [тут](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 * **Meta**. Инструкция по установке [тут](https://www.npmjs.com/package/meta).
+* **Meta NPM** Инструкция по установке [тут](https://www.npmjs.com/package/meta-npm).
 
 ## Установка
 
 Для установки ChatKit запустите в терминале команды:
 
-~~~
+~~~console
 git clone https://github.com/sovaai/chatKit-dev.git
 meta git update
 meta npm install
-npm install // for local deps in development
-//dev start
+npm install // for local dependency in development
+~~~
+
+## Запуск
+
+~~~console
 npm run start
 ~~~
