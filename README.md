@@ -7,6 +7,8 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/sovaai/chatKit-dev">
 </p>
 
+Please choose README language [RUS](https://github.com/sovaai/chatKit-dev/blob/master/README.md#ru-chatkit)
+
 # [EN] ChatKit 
 
 Description here...
