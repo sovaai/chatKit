@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://github.com/sovaai/chatKit-dev/blob/master/chatKit-logo.svg">
+</p>
 
 Open Source Chat Widget
 
