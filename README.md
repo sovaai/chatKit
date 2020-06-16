@@ -11,8 +11,6 @@ NPM Bage
 
 Please choose README language [EN](#[en]-chatkit) | [RUS](#ru-chatkit)
 
----
-
 # [EN] SOVA ChatKit 
 
 ChatKit is an Open Source library that lets you create a Live Chat Widget and connecte it to any backend like Chatbot/NLP engine, messenger or online chat engine.
