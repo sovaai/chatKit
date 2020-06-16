@@ -1,6 +1,6 @@
 <p align="center">
 <img src="https://github.com/sovaai/chatKit-dev/blob/master/chatKit-logo.svg">
-<br>Open Source Chat Widget
+<br>Open Source React Chat Widget
 <br><br>
 <a href="http://commitizen.github.io/cz-cli/">
   <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly"></a>
@@ -10,7 +10,7 @@
 <br>
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/sovaai/chatKit-dev/total">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sovaai/chatKit-dev">
-<br>Please choose README language <a href="https://github.com/sovaai/chatKit-dev#en-intro">[EN]</a> | <a href="https://github.com/sovaai/chatKit-dev#ru-intro">[RU]</a>
+<br><br>Please choose README language <a href="https://github.com/sovaai/chatKit-dev#en-intro">English</a> or <a href="https://github.com/sovaai/chatKit-dev#ru-intro">Russian</a>
 </p>
 
 # [EN] Intro 
@@ -61,18 +61,11 @@ npm install
 
 ## Running
 
+To start ChatKit, run the following command in the terminal:
 
 ~~~console
 npm run start
 ~~~
-
-## Sponsors
-
-Become a sponsor and get your logo on our README on Github with a link to your site. [Become a sponsor]
-
-## Backers
-
-Support us with a monthly donation and help us continue our activities. [Become a backer]
 
 ## License
 
@@ -82,3 +75,35 @@ Support us with a monthly donation and help us continue our activities. [Become 
 
 Тут будет описание
 
+## Installation
+
+Для устанвоки ChatKit введите в терминале следующие команды:
+
+
+~~~console
+git clone https://github.com/sovaai/chatKit-dev.git
+meta git update
+meta npm install
+npm install
+~~~
+
+
+## Запуск
+
+Для запуска ChatKit введите в терминале следующие команды:
+
+~~~console
+npm run start
+~~~
+
+## Лицензия
+
+---
+
+# Sponsors
+
+Become a sponsor and get your logo on our README on Github with a link to your site / Станьте спонсором и разместите свой логотип в README на Github со ссылкой на ваш сайт. [Become a sponsor / Стать спонсором]
+
+# Backers
+
+Support us with a monthly donation and help us continue our activities / Поддержите нас ежемесячным пожертвованием и помогите нам продолжить нашу деятельность. [Become a backer / Поддержать проект]
