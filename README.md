@@ -1,4 +1,4 @@
-**ChatKit**
+![](https://downloader.disk.yandex.ru/preview/c49e7d2190f2a024051d285134c8bd7836b58a15a98c05b16631bcfef91fd3d6/5ee8c387/lw1JxvG-c6UfUVAt9A0-VCaHT3jFZZDIvSOML2sbkaoS-38JnRAgyo4HZ71POXsvfq6MWSKzyPzi3U4gVgVShg==?uid=0&filename=Group+445.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&owner_uid=1130000039975700&size=2048x2048)
 
 Open Source Chat Widget
 
