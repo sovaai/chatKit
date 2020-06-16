@@ -7,19 +7,25 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/sovaai/chatKit-dev">
 </p>
 
+Please choose README language [EN](#[en]-chatkit) | [RUS](#ru-chatkit)
 
+# [EN] SOVA ChatKit 
 
-Please choose README language [EN](#[en]-chatkit) [RUS](https://github.com/sovaai/chatKit-dev/blob/master/README.md#ru-chatkit)
+SOVA ChatKit is an Open Source library that lets you create a Live Chat Widget and connecte it to any backend like Chatbot/NLP engine, messenger or Chat engine.
 
-# [EN] ChatKit 
-
-Description here...
+More information about SOVA ChatKit: http://www.sova.ai/chatkit
 
 ## Requirements
 
+* **Git**. Instruction manual is [here](https://git-scm.com/downloads).
+* **Node.js**. Instruction manual is [here](https://nodejs.org/en/download/).
+* **NPM**. Instruction manual is [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
+* **Meta**. Instruction manual is [here](https://www.npmjs.com/package/meta).
+* **Meta NPM** Instruction manual is [here](https://www.npmjs.com/package/meta-npm).
+
 ## Installation
 
-Для установки ChatKit запустите в терминале команды:
+To install ChatKit, run the following commands in the terminal:
 
 ~~~console
 git clone https://github.com/sovaai/chatKit-dev.git
@@ -36,15 +42,15 @@ npm run start
 
 ## License
 
-# [RU] ChatKit 
+# [RU] SOVA ChatKit 
 
 Тут будет описание
 
 ## Требования
  
-Перед началом работы с ChatKit на компьютере должны быть установлены:
+Before you start working with ChatKit, the following software must be installed on the computer:
 
-* **Git**. Инструкция по установки.установке [тут](https://git-scm.com/downloads).
+* **Git**. Инструкция по установке [тут](https://git-scm.com/downloads).
 * **Node.js**. Инструкция по установке [тут](https://nodejs.org/en/download/).
 * **NPM**. Инструкция по установке [тут](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 * **Meta**. Инструкция по установке [тут](https://www.npmjs.com/package/meta).
