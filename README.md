@@ -19,6 +19,16 @@ ChatKit is an Open Source library that lets you create a Live Chat Widget and co
 🌎 [Official website](https://www.sova.ai)  | 📖 [Documentation](https://docs) | 💕 [Community Forum](https://www.forum.sova.ai)
 ----- | ----- | -----
 
+## Table of contents
+
+* [Features]()
+* [Requirements]()
+* [Installation]()
+* [Running]()
+* [Sponsors]()
+* [Backers](#backers)
+* [License](#license)
+
 ## Features
 
 * React-based component
@@ -53,6 +63,14 @@ npm install
 ~~~console
 npm run start
 ~~~
+
+## Sponsors
+
+Become a sponsor and get your logo on our README on Github with a link to your site. [Become a sponsor]
+
+## Backers
+
+Support us with a monthly donation and help us continue our activities. [Become a backer]
 
 ## License
 
