@@ -62,6 +62,8 @@ npm run start
 
 ## License
 
+---
+
 # [RU] SOVA ChatKit 
 
 Тут будет описание
