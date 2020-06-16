@@ -1,3 +1,7 @@
+**ChatKit**
+
+Open Source Chat Widget
+
 <p align="left">
 <a href="http://commitizen.github.io/cz-cli/">
   <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly"></a>
@@ -6,26 +10,25 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/sovaai/chatKit-dev">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/sovaai/chatKit-dev/total">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sovaai/chatKit-dev">
-
 NPM Bage
 </p>
 
-Please choose README language [EN](#[en]-chatkit) | [RUS](#ru-chatkit)
+Please choose README language [EN](#[en]-chatkit) | [RUS](#[ru]-chatkit)
 
-# [EN] SOVA ChatKit 
+# [EN] Intro 
 
-ChatKit is an Open Source library that lets you create a Live Chat Widget and connecte it to any backend like Chatbot/NLP engine, messenger or online chat engine.
+ChatKit is an Open Source library that lets you create a Chat Widget and connecte it to any backend like Chatbot/NLP engine, Live Chat engine and messenger.
 
 🌎 [Official website](https://www.sova.ai)  | 📖 [Documentation](https://docs) | 💕 [Community Forum](https://www.forum.sova.ai)
 ----- | ----- | -----
 
 ## Table of contents
 
-* [Features]()
-* [Requirements]()
-* [Installation]()
-* [Running]()
-* [Sponsors]()
+* [Features](#features)
+* [Requirements](#requirements)
+* [Installation](#installation)
+* [Running](#running)
+* [Sponsors](#sponsors)
 * [Backers](#backers)
 * [License](#license)
 
@@ -59,6 +62,7 @@ npm install
 ~~~
 
 ## Running
+
 
 ~~~console
 npm run start
