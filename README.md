@@ -6,6 +6,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/sovaai/chatKit-dev">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/sovaai/chatKit-dev/total">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sovaai/chatKit-dev">
+
 NPM Bage
 </p>
 
@@ -21,13 +22,8 @@ ChatKit is an Open Source library that lets you create a Live Chat Widget and co
 ## Features
 
 * React-based component
-* Supports Text with Markdown formatting, Images, and Buttons
-* Customizable with SASS variables
-* Generates a unique session id and keeps it in sessionStorage
-* Queues consecutive bot messages for better readability
-* Speech input
-* Text to Speech
 * Simple setup
+* ...
 
 [Try ChatKit live demo](https://demo-chat-kit.herokuapp.com/)
 
