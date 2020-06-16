@@ -10,8 +10,7 @@
 <br>
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/sovaai/chatKit-dev/total">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sovaai/chatKit-dev">
-<br>Please choose README language [EN]() | [RUS]()
-
+<br>Please choose README language [EN](https://github.com/sovaai/chatKit-dev#en-intro) | [RUS](https://github.com/sovaai/chatKit-dev#ru-intro)
 </p>
 
 # [EN] Intro 
@@ -79,7 +78,7 @@ Support us with a monthly donation and help us continue our activities. [Become 
 
 ---
 
-# [RU] SOVA ChatKit 
+# [RU] Введение
 
 Тут будет описание
 
