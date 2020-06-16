@@ -10,7 +10,7 @@
 <br>
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/sovaai/chatKit-dev/total">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sovaai/chatKit-dev">
-<br>Please choose README language [EN](#[en]-chatkit) | [RUS](#[ru]-chatkit)
+<br>Please choose README language [EN]() | [RUS]()
 
 </p>
 
