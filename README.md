@@ -1,16 +1,15 @@
 <p align="center">
 <img src="https://github.com/sovaai/chatKit-dev/blob/master/chatKit-logo.svg">
-	
-Open Source Chat Widget
-
+<br>Open Source Chat Widget
+<br>
 <a href="http://commitizen.github.io/cz-cli/">
   <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly"></a>
 <a href="http://makeapullrequest.com">
 	<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen"></a>
 <img alt="GitHub" src="https://img.shields.io/github/license/sovaai/chatKit-dev">
+<br>
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/sovaai/chatKit-dev/total">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sovaai/chatKit-dev">
-NPM Bage
 </p>
 
 Please choose README language [EN](#[en]-chatkit) | [RUS](#[ru]-chatkit)
