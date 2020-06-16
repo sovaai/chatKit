@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/sovaai/chatKit-dev/blob/master/chatKit-logo.svg">
 <br>Open Source Chat Widget
-<br>
+<br><br>
 <a href="http://commitizen.github.io/cz-cli/">
   <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly"></a>
 <a href="http://makeapullrequest.com">
@@ -12,7 +12,7 @@
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sovaai/chatKit-dev">
 </p>
 
-Please choose README language [EN](#[en]-chatkit) | [RUS](#[ru]-chatkit)
+**Please choose README language [EN](#[en]-chatkit) | [RUS](#[ru]-chatkit)**
 
 # [EN] Intro 
 
