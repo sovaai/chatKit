@@ -1,10 +1,8 @@
 <p align="center">
 <img src="https://github.com/sovaai/chatKit-dev/blob/master/chatKit-logo.svg">
-</p>
-
+	
 Open Source Chat Widget
 
-<p align="left">
 <a href="http://commitizen.github.io/cz-cli/">
   <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly"></a>
 <a href="http://makeapullrequest.com">
