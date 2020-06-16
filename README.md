@@ -11,7 +11,7 @@ NPM Bage
 
 Please choose README language [EN](#[en]-chatkit) | [RUS](#ru-chatkit)
 
--
+---
 
 # [EN] SOVA ChatKit 
 
@@ -20,7 +20,7 @@ ChatKit is an Open Source library that lets you create a Live Chat Widget and co
 🌎 [Official website](https://www.sova.ai)  | 📖 [Documentation](https://docs) | 💕 [Community Forum](https://www.forum.sova.ai)
 ----- | ----- | -----
 
-##Features
+## Features
 
 * React-based component
 * Supports Text with Markdown formatting, Images, and Buttons
