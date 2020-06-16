@@ -1,4 +1,4 @@
-![](https://downloader.disk.yandex.ru/preview/f1225ade90e9e4765bc3b0854bdc598f44f41ace8b92b7a4bb0edf91d7c526ca/5ee8c489/nvnmHvf6cKIrR57qrYcoqGPpd0ZCbSAaMFHzSkXSeI9XrTU7bNYigorzomnJ2ONLZ9b4m07laCwWh8v6Nb4w8Q==?uid=0&filename=Group+445.svg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&owner_uid=1130000039975700&size=2048x2048)
+<img src="https://github.com/sovaai/chatKit-dev/blob/master/chatKit-logo.svg">
 
 Open Source Chat Widget
 
