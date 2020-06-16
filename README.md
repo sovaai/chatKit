@@ -1,21 +1,41 @@
 <p align="left">
 <a href="http://commitizen.github.io/cz-cli/">
-  <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly">
-</a>
+  <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="Commitizen friendly"></a>
+<a href="http://makeapullrequest.com">
+	<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen"></a>
+<img alt="GitHub" src="https://img.shields.io/github/license/sovaai/chatKit-dev">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/sovaai/chatKit-dev/total">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/sovaai/chatKit-dev">
-<img alt="GitHub" src="https://img.shields.io/github/license/sovaai/chatKit-dev">
+NPM Bage
 </p>
 
 Please choose README language [EN](#[en]-chatkit) | [RUS](#ru-chatkit)
 
+-
+
 # [EN] SOVA ChatKit 
 
-SOVA ChatKit is an Open Source library that lets you create a Live Chat Widget and connecte it to any backend like Chatbot/NLP engine, messenger or Chat engine.
+ChatKit is an Open Source library that lets you create a Live Chat Widget and connecte it to any backend like Chatbot/NLP engine, messenger or online chat engine.
 
-More information about SOVA ChatKit: http://www.sova.ai/chatkit
+🌎 [Official website](https://www.sova.ai)  | 📖 [Documentation](https://docs) | 💕 [Community Forum](https://www.forum.sova.ai)
+----- | ----- | -----
+
+##Features
+
+* React-based component
+* Supports Text with Markdown formatting, Images, and Buttons
+* Customizable with SASS variables
+* Generates a unique session id and keeps it in sessionStorage
+* Queues consecutive bot messages for better readability
+* Speech input
+* Text to Speech
+* Simple setup
+
+[Try ChatKit live demo](https://demo-chat-kit.herokuapp.com/)
 
 ## Requirements
+
+Before you start working with ChatKit, the following software must be installed on the computer:
 
 * **Git**. Instruction manual is [here](https://git-scm.com/downloads).
 * **Node.js**. Instruction manual is [here](https://nodejs.org/en/download/).
@@ -46,31 +66,3 @@ npm run start
 
 Тут будет описание
 
-## Требования
- 
-Before you start working with ChatKit, the following software must be installed on the computer:
-
-* **Git**. Инструкция по установке [тут](https://git-scm.com/downloads).
-* **Node.js**. Инструкция по установке [тут](https://nodejs.org/en/download/).
-* **NPM**. Инструкция по установке [тут](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
-* **Meta**. Инструкция по установке [тут](https://www.npmjs.com/package/meta).
-* **Meta NPM** Инструкция по установке [тут](https://www.npmjs.com/package/meta-npm).
-
-## Установка
-
-Для установки ChatKit запустите в терминале команды:
-
-~~~console
-git clone https://github.com/sovaai/chatKit-dev.git
-meta git update
-meta npm install
-npm install
-~~~
-
-## Запуск
-
-~~~console
-npm run start
-~~~
-
-## Лицензия
