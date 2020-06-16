@@ -15,10 +15,15 @@
 
 # [EN] Intro 
 
-ChatKit is an Open Source library that lets you create a Chat Widget and connecte it to any backend like Chatbot/NLP engine, Live Chat engine and messenger.
+ChatKit is an Open Source library that lets you create a Chat Widget and connecte it to any backend like Chatbot/NLP/Live Chat engine or messenger.
 
-🌎 [Official website](https://www.sova.ai)  | 📖 [Documentation](https://docs) | 💕 [Community Forum](https://www.forum.sova.ai)
------ | ----- | -----
+Made with **React** and **Storeon**.
+
+The repository contains all the components necessary for developing ChatKit.
+
+
+🌎 [Website](https://www.sova.ai)  | 📖 [Documentation](https://docs) | 🕹 [Try demo](https://demo-chat-kit.herokuapp.com/) | 💕 [Community Forum](https://www.forum.sova.ai)
+----- | ----- | ----- | -----
 
 ## Table of contents
 
@@ -36,7 +41,16 @@ ChatKit is an Open Source library that lets you create a Chat Widget and connect
 * Simple setup
 * ...
 
-[Try ChatKit live demo](https://demo-chat-kit.herokuapp.com/)
+## Structure
+
+* Modules:
+	* DL module
+	* Facebook
+	* Telegram
+	* RASA
+	* LiveTex
+
+* ChatKit lib
 
 ## Requirements
 
@@ -75,7 +89,23 @@ npm run start
 
 Тут будет описание
 
-## Installation
+🌎 [Веб-сайт](https://www.sova.ai)  | 📖 [Документация](https://docs) | 💕 [Форум](https://www.forum.sova.ai)
+----- | ----- | -----
+
+## Table of contents
+
+* [Features](#features)
+* [Requirements](#requirements)
+* [Installation](#installation)
+* [Running](#running)
+* [Sponsors](#sponsors)
+* [Backers](#backers)
+* [License](#license)
+
+## Состав
+
+
+## Установка
 
 Для устанвоки ChatKit введите в терминале следующие команды:
 
@@ -102,8 +132,8 @@ npm run start
 
 # Sponsors
 
-Become a sponsor and get your logo on our README on Github with a link to your site / Станьте спонсором и разместите свой логотип в README на Github со ссылкой на ваш сайт. [Become a sponsor / Стать спонсором]
+Become a sponsor and get your logo on our README on Github with a link to your site / Станьте спонсором и разместите свой логотип в README на Github со ссылкой на ваш сайт. [Become a sponsor / Стать спонсором]()
 
 # Backers
 
-Support us with a monthly donation and help us continue our activities / Поддержите нас ежемесячным пожертвованием и помогите нам продолжить нашу деятельность. [Become a backer / Поддержать проект]
+Support us with a monthly donation and help us continue our activities / Поддержите нас ежемесячным пожертвованием и помогите нам продолжить нашу деятельность. [Become a backer / Поддержать проект]()
